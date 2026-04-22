@@ -83,11 +83,12 @@ At Elixpo, we are dedicated to building a future where AI is **open, ethical, an
 
 ---
 
-## 🎉 Join Us for Hacktoberfest 2025!
+## 🎉 Join Us for Hacktoberfest 2026!
 
-**Hacktoberfest is live!** We enthusiastically welcome contributions from developers around the world.
+> We have successfully participated in Hacktoberfest 24' and 25'. 
+**Hacktoberfest is yet to be live!** We enthusiastically welcome contributions from developers around the world.
 
-- **Find Issues:** We have curated issues perfect for new contributors.Look for them which is tagged with `hacktoberfest accepted` , `hacktoberfest2025` in our [issue tracker](https://github.com/Circuit-Overtime/elixpo_chapter/issues).
+- **Find Issues:** We have curated issues perfect for new contributors.Look for them which is tagged with `hacktoberfest accepted` , `hacktoberfest2025` in our organisation projects.
 - **Read the Guidelines:** Before submitting a PR, please review our [**Code of Conduct**](./CODE_OF_CONDUCT.md) and [**Contributing Guidelines**](./CONTRIBUTING.md).
 
 Let's build something amazing together!
