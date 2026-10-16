@@ -1,0 +1,6 @@
+{
+  "name": "Static Node site on Cloudflare Pages",
+  "description": "Elixpo's candidate-first Cloudflare Pages deployment shape for static Node sites.",
+  "iconName": "octicon cloud",
+  "categories": ["Deployment", "JavaScript"]
+}
