@@ -45,6 +45,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Synchronize canonical source
+        run: npm run registry:sync
+
       - name: Verify canonical source
         run: npm run registry:check
 
